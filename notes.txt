@@ -1,0 +1,10 @@
+'use client' - specifies a Client Component
+
+usePathname - gets current path
+
+layout.tsx - component that applies to every child page
+
+page.tsx - the displayed page at a route
+
+import {exampleFont} from 'next/font';
+export const exFont = exampleFont();
