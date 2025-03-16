@@ -8,3 +8,9 @@ page.tsx - the displayed page at a route
 
 import {exampleFont} from 'next/font';
 export const exFont = exampleFont();
+
+import Image from 'next/image'; - much better way to load images with Next
+
+`X is ${value}` - string literal, kind of like python f string
+
+dad - https://react-spectrum.adobe.com/react-aria/components.html
